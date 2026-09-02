@@ -1,0 +1,35 @@
+# Godot editor data — never commit
+.godot/
+
+# Import cache (legacy)
+.import/
+
+# Export artifacts
+*.apk
+*.aab
+*.ipa
+*.exe
+*.x86_64
+*.x86_32
+*.arm32
+*.arm64
+*.pck
+*.zip
+export/
+
+# C# / Mono build output
+.mono/
+bin/
+obj/
+*.csproj.user
+*.sln.user
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.swp
+*.swo

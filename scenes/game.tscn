@@ -1,0 +1,19 @@
+[gd_scene load_steps=5 format=3 uid="uid://bw7game01"]
+
+[ext_resource type="Script" path="res://scenes/game.gd" id="1_game"]
+[ext_resource type="PackedScene" path="res://levels/level_01.tscn" id="2_level"]
+[ext_resource type="PackedScene" path="res://entities/player/player.tscn" id="3_player"]
+[ext_resource type="PackedScene" path="res://ui/hud.tscn" id="4_hud"]
+[ext_resource type="PackedScene" path="res://ui/pause_menu.tscn" id="5_pause"]
+
+[node name="Game" type="Node2D"]
+script = ExtResource("1_game")
+
+[node name="Level01" parent="." instance=ExtResource("2_level")]
+
+[node name="Player" parent="." instance=ExtResource("3_player")]
+position = Vector2(120, 692)
+
+[node name="HUD" parent="." instance=ExtResource("4_hud")]
+
+[node name="PauseMenu" parent="." instance=ExtResource("5_pause")]

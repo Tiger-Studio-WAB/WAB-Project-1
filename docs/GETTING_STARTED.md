@@ -1,5 +1,7 @@
 # Getting Started
 
+[English](GETTING_STARTED.md) · [中文](GETTING_STARTED.zh.md) · [Deutsch](GETTING_STARTED.de.md)
+
 This guide covers cloning the repository, opening the project in Godot 4.7, and running the starter template.
 
 ## Clone the repository

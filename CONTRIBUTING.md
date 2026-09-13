@@ -1,5 +1,7 @@
 # Contributing
 
+[English](CONTRIBUTING.md) · [中文](CONTRIBUTING.zh.md) · [Deutsch](CONTRIBUTING.de.md)
+
 Thank you for contributing to the WAB 2D Platformer Template.
 
 ## Important: license and access

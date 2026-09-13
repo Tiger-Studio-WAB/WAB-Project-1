@@ -1,5 +1,7 @@
 # Architecture
 
+[English](ARCHITECTURE.md) · [中文](ARCHITECTURE.zh.md) · [Deutsch](ARCHITECTURE.de.md)
+
 Overview of how the WAB 2D Platformer Template is organized.
 
 ## Design goals

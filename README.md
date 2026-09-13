@@ -1,5 +1,7 @@
 # WAB 2D Platformer Template
 
+[English](README.md) · [中文](README.zh.md) · [Deutsch](README.de.md)
+
 Godot **4.7** starter template for Tiger Studio / Wab. A playable 2D platformer foundation with movement, a TileMapLayer level, one-way platforms, camera follow, HUD, and pause flow.
 
 ## Requirements
